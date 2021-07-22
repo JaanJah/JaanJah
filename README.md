@@ -1,6 +1,3 @@
-## My GitHub stats:
-[![JaanJah's GitHub metrics](https://metrics.lecoq.io/JaanJah?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)](https://metrics.lecoq.io/JaanJah?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year)
-
 ## TypeRacer
 Keyboard go brrr..
 
@@ -8,3 +5,7 @@ Keyboard go brrr..
 
 ## Visitor count:
 [![HitCount](http://hits.dwyl.com/jaanjah/jaanjah.svg)](http://hits.dwyl.com/jaanjah/jaanjah)
+
+## GitLab:
+
+I also have a [GitLab](https://gitlab.com/JaanJah) account.
