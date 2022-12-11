@@ -5,6 +5,7 @@ I also have a [GitLab](https://gitlab.com/JaanJah) account.
 ## Profile metrics
 
 ![Metrics](/github-metrics.svg)
+![Achievements](/metrics.plugin.achievements.svg)
 
 ## Other links
 
