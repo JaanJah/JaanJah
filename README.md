@@ -2,6 +2,10 @@
 
 I also have a [GitLab](https://gitlab.com/JaanJah) account.
 
+## Profile metrics
+
+![Metrics](/github-metrics.svg)
+
 ## Other links
 
 - [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/jaanjah/personal-stack)
