@@ -4,6 +4,7 @@ I also have a [GitLab](https://gitlab.com/JaanJah) account.
 
 ## Profile metrics
 
+![WakaTime](/metrics.plugin.wakatime.svg)
 ![Metrics](/github-metrics.svg)
 ![Achievements](/metrics.plugin.achievements.svg)
 
