@@ -16,16 +16,16 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-      - name: Achievement metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          # Achievements plugin
-          filename: metrics.plugin.achievements.svg
-          base: ""
-          plugin_achievements: yes
-          #plugin_achievements_display: compact
-          #plugin_achievements_threshold: C
+      #- name: Achievement metrics
+      #  uses: lowlighter/metrics@latest
+      #  with:
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    # Achievements plugin
+      #    filename: metrics.plugin.achievements.svg
+      #    base: ""
+      #    plugin_achievements: yes
+      #    #plugin_achievements_display: compact
+      #    #plugin_achievements_threshold: C
       - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
