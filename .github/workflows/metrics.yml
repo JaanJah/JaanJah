@@ -16,6 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+      # Takes too much room in README.md
       #- name: Achievement metrics
       #  uses: lowlighter/metrics@latest
       #  with:
@@ -35,5 +36,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: 14 # 14 is max with free plan
 
