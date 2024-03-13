@@ -4,7 +4,7 @@ I also have a [GitLab](https://gitlab.com/JaanJah) account.
 
 ## Profile metrics
 
-![WakaTime](/metrics.plugin.wakatime.svg)
+<!-- Not using actively atm: ![WakaTime](/metrics.plugin.wakatime.svg) -->
 ![Metrics](/github-metrics.svg)
 
 ## Other links
